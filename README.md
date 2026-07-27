@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hi%2C%20I'm%20Sagar%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Profile Banner"/>
 
-# Hi, I'm Sagar 👋
+# Hi, I'm Jayanth kumar 👋
 ### 🚀 Aspiring Software Engineer | 3rd Year B.Tech CSE Student
 
 </div>

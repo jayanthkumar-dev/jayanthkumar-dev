@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hi%2C%20I'm%20Jayanth%20Kumar%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Profile Banner"/>
 
+# Hi, I'm Jayanth Kumar 👋
 ### 🚀 Aspiring Software Engineer | 3rd Year B.Tech CSE Student
 
 </div>
@@ -24,14 +25,11 @@ I track my algorithmic consistency via the **NeetCode 150** blueprint to optimiz
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label=)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
@@ -40,4 +38,5 @@ I track my algorithmic consistency via the **NeetCode 150** blueprint to optimiz
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jangam-jayanth-kumar-42492b334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 

@@ -26,10 +26,9 @@ I track my algorithmic consistency via the **NeetCode 150** blueprint to optimiz
 ## 🛠️ Tech Stack
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=android,aws,c,cpp,css,figma,flutter,git,html,java,js,react,mongodb,nodejs,postgres,spring,ts,vue,xd&theme=dark" />
+</p>
 
 
 ---
@@ -38,5 +37,4 @@ I track my algorithmic consistency via the **NeetCode 150** blueprint to optimiz
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jangam-jayanth-kumar-42492b334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
 

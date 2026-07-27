@@ -24,46 +24,34 @@ I track my algorithmic consistency via the **NeetCode 150** blueprint to optimiz
 
 ## 🛠️ Languages and Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="58" height="58"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="58" height="58"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="58" height="58"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="58" height="58"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect with me
 
-<table>
-  <tr>
-    <td align="center" width="220">
-      <a href="https://www.linkedin.com/in/jangam-jayanth-kumar-42492b334/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/jayanthkumar-dev" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jangam-jayanth-kumar-42492b334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jayanthkumar-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>

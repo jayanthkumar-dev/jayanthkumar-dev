@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - I’m deep-diving into **Python core syntax**, **Object-Oriented Programming (OOP) architectures**, and building **automation pipelines**.
-- Targeting **entry-level developer roles and internships in Hyderabad / Mumbai**.
+- Targeting **entry-level developer roles and internships**.
 
 ---
 
